@@ -1,0 +1,7 @@
+# Assembled originals of split artifacts are NOT committed — their .part-* pieces are.
+# Rebuild them on the build machine with scripts/assemble-artifacts.sh (after git clone).
+/rust/src/rustc-1.91.0-src.tar.gz
+/rust/src/rustc-1.92.0-src.tar.gz
+/rust/src/rustc-1.93.0-src.tar.gz
+/rust/src/rustc-1.94.0-src.tar.gz
+/rust/src/rustc-1.95.0-src.tar.gz
